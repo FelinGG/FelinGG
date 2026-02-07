@@ -1,5 +1,5 @@
 # 👋 Hi there
-Hi! I'm **Pedro**, based in Poland.
+Hi! I'm **Pedro**, Front-End Developer based in Poland.
 
 # 💫 About Me:
 Junior Front-End Web Developer specializing in responsive web design using HTML, CSS, and JavaScript. Focused on usability and maintainability.
