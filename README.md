@@ -29,6 +29,6 @@ Experienced with modern front-end fundamentals and best practices.
 - Gain professional experience as a Front-End Developer  
 
 ## Contact
-- Linktree: https://linktr.ee/pedrodev  
+- Linktree: [https://linktr.ee/pedrodev ](https://linktr.ee/pedro.dev) 
 - GitHub: https://github.com/yourusername  
 - LinkedIn: https://linkedin.com/in/yourusername
