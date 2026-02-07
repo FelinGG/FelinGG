@@ -6,7 +6,6 @@ I'm Pedro, a Junior Front-End Web Developer basen in Poland
 Junior Front-End Web Developer focused on responsive web design, usability, and clean, maintainable code.  
 Experienced with modern front-end fundamentals and best practices.
 
-## Tech Stack
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -14,7 +13,7 @@ Experienced with modern front-end fundamentals and best practices.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-##Tools & Technologies
+## Tools & Technologies
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
