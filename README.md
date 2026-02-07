@@ -30,5 +30,3 @@ Experienced with modern front-end fundamentals and best practices.
 
 ## Contact
 - Linktree: https://linktr.ee/pedro.dev
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourusername
