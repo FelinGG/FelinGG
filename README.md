@@ -2,7 +2,7 @@
 Hi! I'm **Pedro**, Front-End Developer based in Poland.
 
 # 💫 About Me:
-Junior Front-End Web Developer specializing in responsive web design using HTML, CSS, and JavaScript. Focused on usability and maintainability.
+Junior Front-End Web Developer with a focus on responsive web design using HTML, CSS, and JavaScript. Committed to creating intuitive, maintainable, and user-friendly interfaces.
  
 ## 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
