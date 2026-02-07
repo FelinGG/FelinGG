@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Pedro, a Junior Front-End Web Developer basen in Poland
+I'm Pedro, a Junior Front-End Web Developer based in Poland
 
 ## About
 Junior Front-End Web Developer focused on responsive web design, usability, and clean, maintainable code.  
